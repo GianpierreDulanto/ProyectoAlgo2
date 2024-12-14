@@ -1,0 +1,2 @@
+Recepcionista,1,rodrigodulanto,receptpass,Rodrigo,Dulanto,12345678,912345678,Calle Falsa 456
+Administrador,2,carlosgomez,adminpass,Carlos,Gomez,87654321,87654321,Calle Falsa 123

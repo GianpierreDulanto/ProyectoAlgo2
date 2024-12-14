@@ -1,0 +1,27 @@
+****************************************
+            ☆☆HOTEL OASIS☆☆             
+             Boleta de Pago               
+****************************************
+
+Cliente:
+----------------------------------------
+DNI Cliente  : 12121212
+
+Detalles de la reserva:
+----------------------------------------
+Subtotal Reservas: S/.0.00
+
+Detalles de consumos:
+----------------------------------------
+Pedido #489617: S/.10.00
+Subtotal Consumos: S/.10.00
+
+Resumen del pago:
+----------------------------------------
+Método Pago  : Tarjeta
+Fecha Pago   : 14/12/2024
+MONTO TOTAL  : S/.10 soles
+
+****************************************
+       ¡GRACIAS POR SU PREFERENCIA!     
+****************************************

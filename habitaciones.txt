@@ -1,0 +1,27 @@
+101,Estándar,100.0,true,Recientemente renovada
+102,Estándar,100.0,true,Sábanas nuevas
+103,Estándar,100.0,true,Sin observaciones
+104,Estándar,100.0,true,Limpieza realizada
+105,Estándar,100.0,true,Sin observaciones
+106,Estándar,100.0,true,Sin observaciones
+107,Estándar,100.0,true,Decoración actualizada
+108,Estándar,100.0,true,Disponible
+109,Estándar,100.0,true,Disponible
+201,Suite,200.5,true,Recientemente pintada
+202,Suite,200.5,true,Limpia y disponible
+203,Suite,200.5,true,Limpia y disponible
+204,Suite,200.5,true,Nueva decoración
+205,Suite,200.5,true,Disponible
+206,Suite,200.5,true,Sin observaciones
+207,Suite,200.5,true,Decoración temática
+208,Suite,200.5,true,Lista para huéspedes
+209,Suite,200.5,true,Lista para huéspedes
+301,Deluxe,300.0,true,Con vista al mar
+302,Deluxe,300.0,true,Con vista al mar
+303,Deluxe,300.0,true,Nuevo colchón instalado
+304,Deluxe,300.0,true,Disponible
+305,Deluxe,300.0,true,Perfecto estado
+306,Deluxe,300.0,true,Incluye desayuno
+307,Deluxe,300.0,true,Disponible
+308,Deluxe,300.0,true,Disponible
+309,Deluxe,300.0,true,Sin observaciones

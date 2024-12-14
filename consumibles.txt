@@ -1,0 +1,14 @@
+Bebida,Coca Cola,1.5,Gaseosa
+Bebida,Agua Mineral,1.0,Sin Gas
+Bebida,Café,2.0,Caliente
+Bebida,Jugo de Naranja,2.5,Fruta Natural
+Bebida,Vino Tinto,12.0,Alcoholica
+Comida,Pizza,8.5,Italiana
+Comida,Hamburguesa,7.0,Rápida
+Comida,Ensalada,5.0,Saludable
+Comida,Tacos,6.5,Mexicana
+Comida,Arroz con Pollo,9.0,Latinoamericana
+Comida,Sopa,4.0,Caliente
+Bebida,Batido de Fresa,3.5,Fruta Natural
+Comida,Helado,3.0,Postre
+Comida,Pescado Frito,11.0,Mariscos

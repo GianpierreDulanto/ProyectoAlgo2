@@ -1,0 +1,5 @@
+12345678,101,2024-12-06,3.0,Comida,Tacos,3.0,Mexicana;
+12345678,101,2024-12-06,4.4,Bebida,Fanta,1.4,Refresco;Comida,Tacos,3.0,Mexicana;
+666666666,101,2024-12-13,12.5,Bebida,Coca Cola,1.5,Gaseosa;Comida,Pescado Frito,11.0,Mariscos;
+666666,101,2024-12-13,10.5,Bebida,Café,2.0,Caliente;Comida,Pizza,8.5,Italiana;
+12121212,203,2024-12-14,10.0,Bebida,Coca Cola,1.5,Gaseosa;Comida,Pizza,8.5,Italiana;
